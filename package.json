@@ -1,0 +1,8 @@
+{
+  "name": "02-phishing-url-detector",
+  "version": "1.0.0",
+  "description": "Educational Web Development Technologies Lab backend application",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^5.1.0"}
+}
